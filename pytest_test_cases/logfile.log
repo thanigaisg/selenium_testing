@@ -1,0 +1,21 @@
+2023-04-08 18:50:29,347 : INFO : pytest_test_cases.test_logging : An informative statement is executed
+2023-04-08 18:50:29,348 : WARNING : pytest_test_cases.test_logging : An warning statement is executed
+2023-04-08 18:50:29,348 : ERROR : pytest_test_cases.test_logging : An error statement is executed
+2023-04-08 18:50:29,349 : CRITICAL : pytest_test_cases.test_logging : A critical statement is executed
+2023-04-08 19:14:47,419 : INFO : pytest_test_cases.BaseClass : I will be executing during fixtures 3
+2023-04-08 19:15:53,016 : INFO : pytest_test_cases.BaseClass : I will be executing during fixtures 1
+2023-04-08 19:15:53,031 : INFO : pytest_test_cases.BaseClass : I will be executing during fixtures 2
+2023-04-08 19:15:53,031 : INFO : pytest_test_cases.BaseClass : I will be executing during fixtures 2
+2023-04-08 19:15:53,070 : INFO : pytest_test_cases.BaseClass : I will be executing during fixtures 3
+2023-04-08 19:15:53,070 : INFO : pytest_test_cases.BaseClass : I will be executing during fixtures 3
+2023-04-08 19:15:53,070 : INFO : pytest_test_cases.BaseClass : I will be executing during fixtures 3
+2023-04-08 19:19:35,622 : INFO : test_fixture1 : I will be executing during fixtures 1
+2023-04-08 19:19:35,647 : INFO : test_fixture2 : I will be executing during fixtures 2
+2023-04-08 19:19:35,666 : INFO : test_fixture3 : I will be executing during fixtures 3
+2023-04-08 19:22:26,479 : INFO : test_fixture1 : I will be executing during fixtures 1
+2023-04-08 19:22:26,512 : INFO : test_fixture2 : I will be executing during fixtures 2
+2023-04-08 19:22:26,542 : INFO : test_fixture3 : I will be executing during fixtures 3
+2023-04-08 19:22:26,553 : INFO : pytest_test_cases.test_logging : An informative statement is executed
+2023-04-08 19:22:26,553 : WARNING : pytest_test_cases.test_logging : An warning statement is executed
+2023-04-08 19:22:26,554 : ERROR : pytest_test_cases.test_logging : An error statement is executed
+2023-04-08 19:22:26,554 : CRITICAL : pytest_test_cases.test_logging : A critical statement is executed
