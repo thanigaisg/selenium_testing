@@ -1,6 +1,9 @@
 import pytest
 
 
+def pytest_configure(config):
+    config.addinivalue_line("markers", "webtest: mark a test as a webtest")
+
 @pytest.fixture(scope="class")
 def setup():
     print("I will be executing first")

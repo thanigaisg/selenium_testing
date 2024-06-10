@@ -19,3 +19,17 @@
 2023-04-08 19:22:26,553 : WARNING : pytest_test_cases.test_logging : An warning statement is executed
 2023-04-08 19:22:26,554 : ERROR : pytest_test_cases.test_logging : An error statement is executed
 2023-04-08 19:22:26,554 : CRITICAL : pytest_test_cases.test_logging : A critical statement is executed
+2024-05-07 20:37:55,899 : INFO : test_fixture1 : I will be executing during fixtures 1
+2024-05-07 20:37:55,914 : INFO : test_fixture2 : I will be executing during fixtures 2
+2024-05-07 20:37:55,921 : INFO : test_fixture3 : I will be executing during fixtures 3
+2024-05-07 20:37:55,927 : INFO : pytest_test_cases.test_logging : An informative statement is executed
+2024-05-07 20:37:55,927 : WARNING : pytest_test_cases.test_logging : An warning statement is executed
+2024-05-07 20:37:55,927 : ERROR : pytest_test_cases.test_logging : An error statement is executed
+2024-05-07 20:37:55,927 : CRITICAL : pytest_test_cases.test_logging : A critical statement is executed
+2024-05-07 20:54:59,078 : INFO : test_fixture1 : I will be executing during fixtures 1
+2024-05-07 20:54:59,090 : INFO : test_fixture2 : I will be executing during fixtures 2
+2024-05-07 20:54:59,101 : INFO : test_fixture3 : I will be executing during fixtures 3
+2024-05-07 20:54:59,113 : INFO : pytest_test_cases.test_logging : An informative statement is executed
+2024-05-07 20:54:59,113 : WARNING : pytest_test_cases.test_logging : An warning statement is executed
+2024-05-07 20:54:59,113 : ERROR : pytest_test_cases.test_logging : An error statement is executed
+2024-05-07 20:54:59,113 : CRITICAL : pytest_test_cases.test_logging : A critical statement is executed
