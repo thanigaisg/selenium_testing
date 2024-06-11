@@ -765,5 +765,7 @@
 /.idea/Selenium_Automation.iml
 /.idea/workspace.xml
 .idea
-pytest_test_cases/__pycache__/
+.
 Payment_Card_Tools/tests/__pycache__/
+pytest_test_cases/__pycache__/
+Selenium/__pycache__/
