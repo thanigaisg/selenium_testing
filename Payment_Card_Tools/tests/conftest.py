@@ -46,6 +46,8 @@ def tvr_decoder(request):
     for ele in emv_tags:
         if ele.text == "TVR (Tag 95)":
             ele.click()
+            break
+        
     wait = WebDriverWait(request.cls.driver, 10)
     wait.until(expected_conditions.presence_of_element_located((By.XPATH, "//input[@id='input-tvr']")))
 
